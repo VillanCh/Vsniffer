@@ -1,2 +1,5 @@
 # Vsniffer
-winpcap 4.x封装成的类库，支持很简单的api抓包。^_^
+基于winpcap
+Vsniffer1.0，支持流量统计
+包含Dumper，DeviceOp,Filter  和内置流量分析
+具有拓展性
